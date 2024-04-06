@@ -1,0 +1,18 @@
+.btn-blue {
+        display: block; /* Makes the button take the full width of the card */
+        width: auto;
+        padding: 10px 20px;
+        margin: 10px auto 20px; /* Centers the button and adds space */
+        font-size: 16px;
+        color: #fff;
+        background-color: #007bff;
+        border: none;
+        border-radius: 4px;
+        text-align: center;
+        text-decoration: none;
+        transition: background-color 0.2s ease-in-out;
+}
+
+.btn-blue:hover {
+        background-color: #0056b3;
+    }
